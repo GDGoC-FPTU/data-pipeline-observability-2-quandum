@@ -3,7 +3,7 @@
 Day 10 Lab: Build Your First Automated ETL Pipeline
 ==============================================================
 Student ID: 2A202600786
-Name: Tran Manh Chanh Quan
+Name: Trần Mạnh Chánh Quân
 
 Nhiem vu:
    1. Extract:   Doc du lieu tu file JSON

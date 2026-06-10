@@ -1,7 +1,7 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
 **Student ID:** 2A202600786
-**Name:** Tran Manh Chanh Quan
+**Name:** Trần Mạnh Chánh Quân
 **Date:** 2026-06-10
 
 ---

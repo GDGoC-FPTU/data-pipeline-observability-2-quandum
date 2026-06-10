@@ -2,7 +2,7 @@
 # Day 10 Lab: Data Pipeline & Data Observability
 
 **Student ID:** 2A202600786
-**Name:** Tran Manh Chanh Quan
+**Name:** Trần Mạnh Chánh Quân
 
 ---
 
